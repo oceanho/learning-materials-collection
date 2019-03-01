@@ -9,7 +9,7 @@ JavaScript materials collection
 
 ## 常见问题
 
-- [CORS 跨域请求](https://wangdoc.com/javascript/bom/cors.html)
+- [CORS 跨域请求解决方案](https://wangdoc.com/javascript/bom/cors.html)
 
 ## 开源牛项目
 
