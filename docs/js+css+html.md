@@ -10,6 +10,7 @@ JavaScript + Css + Html materials collection
 ## 常见问题
 
 - [CORS 跨域请求解决方案](https://wangdoc.com/javascript/bom/cors.html)
+- [JavaScript通过 Promise 实现 sleep 函数](https://stackoverflow.com/questions/951021/what-is-the-javascript-version-of-sleep)
 
 ## 开源牛项目
 
